@@ -13,7 +13,7 @@ Folder này được chia theo đúng việc cần làm:
 | `01-invidual-workshop/app-teardown.md` | Bài mổ app AI thật: dùng thử, vẽ flow, tìm path yếu, viết finding thành quyết định product. |
 | `02-group-spec/` | Bộ template cho phần nhóm: gom bằng chứng, chuyển evidence thành insight/opportunity/build slice, và viết thin SPEC cuối Day 05. |
 
-## Cấu trúc repo nộp bài Day 06
+## Cấu trúc repo nộp bài Day 05
 
 Mỗi học viên nộp **một repo cá nhân**:
 
